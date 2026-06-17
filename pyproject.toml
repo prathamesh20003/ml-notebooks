@@ -1,0 +1,11 @@
+[project]
+name = "ml-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.5.8",
+    "openpyxl>=3.1.5",
+    "scipy>=1.17.1",
+]
