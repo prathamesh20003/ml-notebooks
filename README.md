@@ -1,3 +1,3 @@
 #Run Project with uv
-*uv sync
-*uv run jupyter lab
+* uv sync
+* uv run jupyter lab
